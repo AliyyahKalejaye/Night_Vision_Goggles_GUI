@@ -49,7 +49,7 @@ def draw_realistic_compass(surf, heading):
 
 def draw_ui(surf, heading, dist):
     # Company Logo
-    logo = font_logo.render("PROFORCE AIRSYSTEMS", True, NVG_GREEN)
+    logo = font_logo.render("ALIYYAH KALEJAYE", True, NVG_GREEN)
     surf.blit(logo, (60, 60))
     
     # Live Map Simulation
